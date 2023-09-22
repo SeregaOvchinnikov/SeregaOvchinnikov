@@ -84,7 +84,7 @@
 ---
 ## Проекты:
 
-* [Сайт рецептов](https://ovchinnikov777.ddns.net/signin) - сайт сервиса рецептов и список покупок.
+💻 [Сайт рецептов](https://ovchinnikov777.ddns.net/signin) - сайт сервиса рецептов и список покупок.
 
 * [Cooking and shopping](https://github.com/seregaovchinnikov/foodgramov_project) - онлайн сервис рецептов и список покупок.
 * [Social network](https://github.com/seregaovchinnikov/social_network) - социальная сеть и сеть микроблогов.
