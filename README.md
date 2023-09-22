@@ -84,9 +84,9 @@
 ---
 ## Проекты:
 
-* [Cooking and shopping](https://github.com/seregaovchinnikov/foodgram-project-react) - онлайн сервис рецептов и список покупок.
-* [Social network](https://github.com/seregaovchinnikov/yatube_project) - социальная сеть и сеть микроблогов.
-* [JWT token](https://github.com/seregaovchinnikov/api_final_yatube) - реализована аутентификация по JWT токену.
-[Platform for reviews](https://github.com/seregaovchinnikov/api_yamdb) - площадка для отзывов пользователей. Реализована система оценки и обсуждения отзывов в комментариях.
+* [Cooking and shopping](https://github.com/seregaovchinnikov/foodgramov_project) - онлайн сервис рецептов и список покупок.
+* [Social network](https://github.com/seregaovchinnikov/social_network) - социальная сеть и сеть микроблогов.
+* [API_JWT_token](https://github.com/seregaovchinnikov/api_jwt_website) - реализована аутентификация по JWT токену.
+* [Platform for reviews](https://github.com/seregaovchinnikov/api_yamdb) - площадка для отзывов пользователей. Реализована система оценки и обсуждения отзывов в комментариях.
 * [Telegram_bot](https://github.com/seregaovchinnikov/homework_bot) - бот умеет опрашивать API сервиса и проверять статус работы. В случае изменений статуса, уведомляет об этом личным сообщением в Telegram.
 ---
