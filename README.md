@@ -80,3 +80,13 @@
 ---
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=seregaovchinnikov)
+
+---
+## Проекты:
+
+    * [ansible](https://github.com/seregaovchinnikov/foodgram-project-react) - онлайн сервис рецептов.
+    * [cloudinit](https://cloudinit.readthedocs.io/en/latest/) - A multi-distribution package that handles early initialization of a cloud instance.
+    * [OpenStack](https://www.openstack.org/) - Open source software for building private and public clouds.
+    * [pyinfra](https://github.com/Fizzadar/pyinfra) - A versatile CLI tools and python libraries to automate infrastructure.
+    * [saltstack](https://github.com/saltstack/salt) - Infrastructure automation and management system.
+---
