@@ -84,6 +84,9 @@
 ---
 ## Проекты:
 
-* [ansible](https://github.com/seregaovchinnikov/foodgram-project-react) - онлайн сервис рецептов.
-* [cloudinit](https://cloudinit.readthedocs.io/en/latest/) - A multi-distribution package that handles early initialization of a cloud instance.
+* [Cooking and shopping](https://github.com/seregaovchinnikov/foodgram-project-react) - онлайн сервис рецептов и список покупок.
+* [Social network](https://github.com/seregaovchinnikov/yatube_project) - социальная сеть и сеть микроблогов.
+* [JWT token](https://github.com/seregaovchinnikov/api_final_yatube) - реализована аутентификация по JWT токену.
+[Platform for reviews](https://github.com/seregaovchinnikov/api_yamdb) - площадка для отзывов пользователей. Реализована система оценки и обсуждения отзывов в комментариях.
+* [Telegram_bot](https://github.com/seregaovchinnikov/homework_bot) - бот умеет опрашивать API сервиса и проверять статус работы. В случае изменений статуса, уведомляет об этом личным сообщением в Telegram.
 ---
